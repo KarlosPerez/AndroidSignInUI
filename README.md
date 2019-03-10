@@ -12,6 +12,6 @@ This is just an UI, no logic and code inside, but you can use it for your projec
 
 ## Preview
 
-![preview]()
+![preview](https://github.com/KarlosPerez/AndroidSignInUI/blob/master/previewUI.png)
 
 
