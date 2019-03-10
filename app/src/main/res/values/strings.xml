@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidSignInUI</string>
+    <string name="hint_welcome_back">Welcome Back</string>
+    <string name="hint_sign_in">Sign In Into Your Account</string>
+    <string name="hint_sign_in_title">Sign In</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_reset_password">Reset My Password</string>
 </resources>

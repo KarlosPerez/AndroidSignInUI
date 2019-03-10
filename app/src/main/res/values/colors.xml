@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#4083e2</color>
+    <color name="colorPrimaryDark">#1c61c2</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="gradient_start_color">#4083e2</color>
+    <color name="gradient_end_color">#1c61c2</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkGray">#666666</color>
+    <color name="colorLightGray">#b3b3b3</color>
+
+    <color name="colorButtonSignIn">#FFE074</color>
+    <color name="colorTextButton">#80744B</color>
+
 </resources>
